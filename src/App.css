@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  font-family: 'inter', 'sans-serif';
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
